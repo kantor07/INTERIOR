@@ -1,2 +1,2 @@
 # INTERIOR
-Landing page shop interior
+учебный проект - верстка- лендинг
